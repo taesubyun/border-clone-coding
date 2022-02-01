@@ -6,7 +6,7 @@ const Navbar = () => {
             style={{
                 display: 'flex',
                 color: '#EE2B47',
-                border: '1px solid #EE2B47',
+                border: '1px solid #F7FD04',
                 margin: '5px',
                 padding: '5px ',
                 textAlign: 'center',
@@ -20,7 +20,7 @@ const Navbar = () => {
                     fontSize: '1.3rem',
                 }}
             >
-                로 고
+                LOGO
             </h1>
             <ul
                 style={{
@@ -54,10 +54,10 @@ const Navbar = () => {
                             marginRight: '10px',
                         }}
                     >
-                        버튼 1
+                        BUTTON 1
                     </button>
                     <button style={{ width: '150px', height: '50px' }}>
-                        버튼 2
+                        BUTTON 2
                     </button>
                 </div>
             </div>
@@ -76,7 +76,7 @@ const Navbar = () => {
                         padding: '5px 5px',
                     }}
                 >
-                    네모
+                    NEMO
                 </h3>
             </div>
         </nav>
