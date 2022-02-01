@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const Navbar = () => {
     return (
-        <div
+        <nav
             style={{
                 display: 'flex',
                 color: '#EE2B47',
@@ -79,7 +79,7 @@ const Navbar = () => {
                     네모
                 </h3>
             </div>
-        </div>
+        </nav>
     );
 };
 
