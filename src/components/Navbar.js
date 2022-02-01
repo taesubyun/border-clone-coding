@@ -5,8 +5,8 @@ const Navbar = () => {
         <div
             style={{
                 display: 'flex',
-                color: '#FE7E6D',
-                border: '1px solid #FE7E6D',
+                color: '#EE2B47',
+                border: '1px solid #EE2B47',
                 margin: '5px',
                 padding: '5px ',
                 textAlign: 'center',
@@ -14,7 +14,7 @@ const Navbar = () => {
         >
             <h1
                 style={{
-                    border: '1px solid #FE7E6D',
+                    border: '1px solid #EE2B47',
                     padding: '15px 0',
                     width: '80px',
                     fontSize: '1.3rem',
@@ -26,34 +26,21 @@ const Navbar = () => {
                 style={{
                     display: 'flex',
                     justifyContent: 'center',
-                    border: '1px solid #FE7E6D',
+                    border: '1px solid #EE2B47',
                     width: '70%',
                     marginLeft: '5px',
                     fontSize: '1.5rem',
                 }}
-            >
-                <li>
-                    <a href='#'>메뉴 1</a>
-                </li>
-                <li>
-                    <a href='#'>메뉴 2</a>
-                </li>
-                <li>
-                    <a href='#'>메뉴 3</a>
-                </li>
-                <li>
-                    <a href='#'>메뉴 4</a>
-                </li>
-            </ul>
+            ></ul>
             <div
                 style={{
                     width: '30%',
-                    border: '1px solid #FE7E6D',
+                    border: '1px solid #EE2B47',
                 }}
             >
                 <div
                     style={{
-                        border: '1px solid #FE7E6D',
+                        border: '1px solid #EE2B47',
                         margin: '5px',
                         display: 'flex',
                         justifyContent: 'center',
@@ -76,7 +63,7 @@ const Navbar = () => {
             <div
                 style={{
                     width: '80px',
-                    border: '1px solid #FE7E6D',
+                    border: '1px solid #EE2B47',
                     display: 'flex',
                     justifyContent: 'center',
                     alignItems: 'center',
@@ -84,7 +71,7 @@ const Navbar = () => {
             >
                 <h3
                     style={{
-                        border: '1px solid #FE7E6D',
+                        border: '1px solid #EE2B47',
                         padding: '5px 5px',
                     }}
                 >
