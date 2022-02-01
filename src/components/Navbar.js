@@ -44,6 +44,7 @@ const Navbar = () => {
                         margin: '5px',
                         display: 'flex',
                         justifyContent: 'center',
+                        padding: '5px 0',
                     }}
                 >
                     <button
