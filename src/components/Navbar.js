@@ -20,7 +20,7 @@ const Navbar = () => {
                     fontSize: '1.3rem',
                 }}
             >
-                LOGO
+                L O G O
             </h1>
             <ul
                 style={{
@@ -54,10 +54,10 @@ const Navbar = () => {
                             marginRight: '10px',
                         }}
                     >
-                        BUTTON 1
+                        B U T T O N 1
                     </button>
                     <button style={{ width: '150px', height: '50px' }}>
-                        BUTTON 2
+                        B U T T O N 2
                     </button>
                 </div>
             </div>
@@ -76,7 +76,7 @@ const Navbar = () => {
                         padding: '5px 5px',
                     }}
                 >
-                    NEMO
+                    N E M O
                 </h3>
             </div>
         </nav>

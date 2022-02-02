@@ -20,7 +20,7 @@ const Section = () => {
                         border: '1px solid #EE2B47',
                     }}
                 >
-                    <h2 style={{ color: '#EE2B47' }}>TITLE</h2>
+                    <h2 style={{ color: '#EE2B47' }}>T I T L E</h2>
                 </div>
                 <div
                     style={{
@@ -29,7 +29,7 @@ const Section = () => {
                         border: '1px solid #EE2B47',
                     }}
                 >
-                    <p style={{ color: '#EE2B47' }}>CONTENT</p>
+                    <p style={{ color: '#EE2B47' }}>C O N T E N T</p>
                 </div>
             </div>
         </section>
